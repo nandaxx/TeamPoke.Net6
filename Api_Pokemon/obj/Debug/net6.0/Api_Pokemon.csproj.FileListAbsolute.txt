@@ -1,0 +1,171 @@
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\appsettings.json
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.exe
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.deps.json
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.runtimeconfig.json
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.pdb
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Humanizer.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Npgsql.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.csproj.AssemblyReference.cache
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.AssemblyInfoInputs.cache
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.AssemblyInfo.cs
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.Api_Pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.build.Api_Pokemon.props
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api_Pokemon.props
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api_Pokemon.props
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\scopedcss\bundle\Api_Pokemon.styles.css
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.csproj.CopyComplete
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\refint\Api_Pokemon.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.pdb
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.genruntimeconfig.cache
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\obj\Debug\net6.0\ref\Api_Pokemon.dll
+C:\Users\talle\OneDrive\Área de Trabalho\pokemon\Pokemon\Api_Pokemon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\appsettings.json
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.exe
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.deps.json
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.runtimeconfig.json
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.pdb
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.Api_Pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.build.Api_Pokemon.props
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api_Pokemon.props
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api_Pokemon.props
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\scopedcss\bundle\Api_Pokemon.styles.css
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.csproj.CopyComplete
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\refint\Api_Pokemon.dll
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.pdb
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\ApiPokemon\Api_Pokemon\obj\Debug\net6.0\ref\Api_Pokemon.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\appsettings.json
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.exe
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.deps.json
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.runtimeconfig.json
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Api_Pokemon.pdb
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Humanizer.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Npgsql.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.csproj.AssemblyReference.cache
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.AssemblyInfoInputs.cache
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.AssemblyInfo.cs
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.Api_Pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.build.Api_Pokemon.props
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api_Pokemon.props
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api_Pokemon.props
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\scopedcss\bundle\Api_Pokemon.styles.css
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.csproj.CopyComplete
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\refint\Api_Pokemon.dll
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.pdb
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\Api_Pokemon.genruntimeconfig.cache
+C:\Users\talle\OneDrive\Área de Trabalho\TeamPoke.Net\Api_Pokemon\obj\Debug\net6.0\ref\Api_Pokemon.dll
